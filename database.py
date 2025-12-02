@@ -26,7 +26,7 @@ EVENT_DATABASE: dict[str, float] = {
     "adf0f2a8-58cb-4c34-8305-832138404427": 0.50,
     "fce4dd5c-2335-4fdc-8131-462ba2034467": 0.50,
     "ad0c942e-a1ef-4fa4-b3e8-2e33596d251d": 0.50,
-    "50ae75aa-0273-4d74-9d23-e3bd6962ad5a": 1.0,
+    "50ae75aa-0273-4d74-9d23-e3bd6962ad5a": 0.0,
     "c96bc8c2-e597-44b6-9bd1-c55e7cd7a95d": 0.50,
     "ed7f2136-e78b-4c06-90f3-95e9502aa921": 0.50,
     "c848dd6f-639e-43dc-b69f-cc544b9080ec": 0,
